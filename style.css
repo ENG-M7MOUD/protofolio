@@ -8,29 +8,31 @@
 }
 
 *{box-sizing:border-box}
-html,body{height:100%}
-body{
-  margin:0;
+html,body{height:100%; }
+body {
+  margin: 0;
   font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
   background: linear-gradient(180deg, #071021 0%, #081123 100%);
-  color:#e6eef6;
-  -webkit-font-smoothing:antialiased;
-  -moz-osx-font-smoothing:grayscale;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  padding:40px 20px;
+  color: #e6eef6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+ 
+  display: flex;
+  min-height: 100vh;     padding: 40px 20px;    /
 }
 
-.container{
-  width:100%;
-  max-width:980px;
+.container {
+  width: 100%;
+  max-width: 980px;
   background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
-  border-radius:18px;
-  padding:28px;
+  border-radius: 18px;
+  padding: 28px;
   box-shadow: 0 8px 40px rgba(2,6,23,0.7);
+  
+  
+  margin: auto; 
 }
-
 .hero{
   text-align:center;
   margin-bottom:20px;
