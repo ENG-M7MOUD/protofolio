@@ -41,7 +41,7 @@ All QR codes are **generated locally using Python**, ensuring privacy, security,
 ├── qrcodes/            # Generated QR code images
 └── README.md
 ```
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1. Clone the Repository
 ```text
 
@@ -60,7 +60,7 @@ python generate_qr.py
 ```
 All QR codes will be generated and saved inside the qrcodes/ directory.
 
-🚀 Running the Project
+### 🚀 Running the Project
 This is a fully static project. Simply open the main file:
 
 
@@ -81,14 +81,14 @@ links = {
 ```
 Note: Re-run the script after editing to regenerate QR codes.
 
-**📄 License*
+## 📄 License
 This project is licensed under the MIT License.
 
-👤 Author
-Mahmoud Elgazar
+## 👤 Author
+### Mahmoud Elgazar
 
-🛡️ Cybersecurity
+## 🛡️ Cybersecurity
 
-🎩 Ethical Hacking
+## 🎩 Ethical Hacking
 
-💻 Software Engineering
+## 💻 Software Engineering
