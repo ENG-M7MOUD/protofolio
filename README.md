@@ -78,6 +78,8 @@ All QR codes are \*\*generated locally using Python\*\*, ensuring privacy, secur
 
 └── README.md
 
+```
+
 ⚙️ Installation \& Setup
 
 1\. Clone the Repository
