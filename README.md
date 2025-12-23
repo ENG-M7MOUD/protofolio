@@ -1,6 +1,6 @@
 
 
-\# Personal QR \& Social Links Hub
+# Personal QR \& Social Links Hub
 
 
 
