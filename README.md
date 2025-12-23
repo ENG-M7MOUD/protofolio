@@ -3,12 +3,12 @@
 
 > A professional, lightweight static web project that centralizes personal and professional social links with scannable QR codes for fast, reliable sharing.
 
-This project is designed with simplicity, performance, and clean presentation in mind, making it suitable for personal branding, developer portfolios, and offline sharing.
+> This project is designed with simplicity, performance, and clean presentation in mind, making it suitable for personal branding, developer portfolios, and offline sharing.
 
 ---
 
 ## 📖 Overview
-The **Personal QR & Social Links Hub** is a static landing page that displays a curated list of social or professional links, each paired with a high-quality QR code.
+> The **Personal QR & Social Links Hub** is a static landing page that displays a curated list of social or professional links, each paired with a high-quality QR code.
 All QR codes are **generated locally using Python**, ensuring privacy, security, and full control over the content. The project does not rely on any backend services or external APIs.
 
 ---
@@ -61,15 +61,15 @@ python generate_qr.py
 All QR codes will be generated and saved inside the qrcodes/ directory.
 
 ### 🚀 Running the Project
-This is a fully static project. Simply open the main file:
+> This is a fully static project. Simply open the main file:
 
 
 
 # On Windows
 start index.html
 ### 🎨 Customization
-Editing Social Links
-Modify the links dictionary inside generate_qr.py:
+> Editing Social Links
+> Modify the links dictionary inside generate_qr.py:
 
 ## Python
 ```text
@@ -82,10 +82,10 @@ links = {
 Note: Re-run the script after editing to regenerate QR codes.
 
 ## 📄 License
-This project is licensed under the MIT License.
+> This project is licensed under the MIT License.
 
 ## 👤 Author
-### Mahmoud Elgazar
+###      Mahmoud Elgazar
 
 ## 🛡️ Cybersecurity
 
